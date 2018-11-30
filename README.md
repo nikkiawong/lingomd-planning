@@ -36,6 +36,17 @@
 
 ## Planning
 
+### Sketches
+
+#### Landing Page
+<img src='./src/assets/images/landing.jpg'>
+
+#### Results Page
+<img src='./src/assets/images/results.jpg'>
+
+#### Results Detail Page
+<img src='./src/assets/images/detail.jpg'>
+
 ## Setup on OSX
 
 * Clone this repository
