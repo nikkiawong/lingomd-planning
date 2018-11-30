@@ -1,4 +1,4 @@
-<img src='./src/assets/images/lingomd-horizbwlogo-03.png'>
+<img src='./src/assets/images/lingomd-horiz-colorlogo-06.png'>
 
 # LingoMD (Native Language Doctor)
 
@@ -59,6 +59,17 @@
 
 #### Results Detail Page
 <img src='./src/assets/images/detail-lofi.png'>
+
+### Hi-fi Wireframes
+
+#### Landing Page
+<img src='./src/assets/images/landing-hifi.png'>
+
+#### Results Page
+<img src='./src/assets/images/results-hifi.png'>
+
+#### Results Detail Page
+<img src='./src/assets/images/detail-hifi.png'>
 
 ## Setup on OSX
 
