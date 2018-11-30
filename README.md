@@ -39,7 +39,7 @@
 ### Sketches
 
 #### Landing Page
-<img src='./src/assets/images/landing.jpg'>
+<img src='./src/assets/images/landing2.jpg'>
 
 #### Results Page
 <img src='./src/assets/images/results.jpg'>
