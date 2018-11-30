@@ -1,4 +1,4 @@
-# Native Language Doctor
+# LingoMD (Native Language Doctor)
 
 #### Independent capstone project for Epicodus, 11.30.18
 
