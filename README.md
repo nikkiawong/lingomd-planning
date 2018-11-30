@@ -60,6 +60,14 @@
 #### Results Detail Page
 <img src='./src/assets/images/detail-lofi.png'>
 
+### Annotated Wireframes
+
+| Page Name  |  |
+| ------------- | ------------- |
+| Landing Page  | <img src='./src/assets/images/landing-lofi-ann-01.png'>  |
+| Results Page  | <img src='./src/assets/images/results-lofi-ann-01.png'>  |
+| Detail Page  | <img src='./src/assets/images/detail-lofi-ann-01.png'>  |
+
 ### Hi-fi Wireframes
 
 #### Landing Page
