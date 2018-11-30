@@ -47,6 +47,17 @@
 #### Results Detail Page
 <img src='./src/assets/images/detail.jpg'>
 
+### Lo-fi Wireframes
+
+#### Landing Page
+<img src='./src/assets/images/landing-lofi.png'>
+
+#### Results Page
+<img src='./src/assets/images/results-lofi.png'>
+
+#### Results Detail Page
+<img src='./src/assets/images/detail-lofi.png'>
+
 ## Setup on OSX
 
 * Clone this repository
