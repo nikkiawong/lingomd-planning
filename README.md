@@ -1,3 +1,5 @@
+<img src='./src/assets/images/lingomd-logo-01.png' style='width: 50%; margin-left: auto; margin-right: auto'>
+
 # LingoMD (Native Language Doctor)
 
 #### Independent capstone project for Epicodus, 11.30.18
