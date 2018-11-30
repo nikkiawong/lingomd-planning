@@ -1,4 +1,4 @@
-<img src='./src/assets/images/lingomd-logo-01.png' style='width: 50%; margin-left: auto; margin-right: auto'>
+<img src='./src/assets/images/lingomd-horiztext-bwlogo-03.png'>
 
 # LingoMD (Native Language Doctor)
 
