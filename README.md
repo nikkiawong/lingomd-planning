@@ -52,7 +52,7 @@
 ### Lo-fi Wireframes
 
 #### Landing Page
-<img src='./src/assets/images/landing-lofi.png'>
+<img src='./src/assets/images/landing-page-lofi2.png'>
 
 #### Results Page
 <img src='./src/assets/images/results-lofi.png'>
@@ -64,12 +64,12 @@
 
 | Landing Page  | Results Page | Details Page |
 | ------------- | ------------- | ------------- |
-| <img src='./src/assets/images/landing-lofi-ann-01.png'>  | <img src='./src/assets/images/results-lofi-ann-01.png'>  | <img src='./src/assets/images/detail-lofi-ann-01.png'>  |
+| <img src='./src/assets/images/landing-lofi-ann2-01.png'>  | <img src='./src/assets/images/results-lofi-ann-01.png'>  | <img src='./src/assets/images/detail-lofi-ann-01.png'>  |
 
 ### Hi-fi Wireframes
 
 #### Landing Page
-<img src='./src/assets/images/landing-hifi.png'>
+<img src='./src/assets/images/landing-hifi2.png'>
 
 #### Results Page
 <img src='./src/assets/images/results-hifi-v2.png'>
