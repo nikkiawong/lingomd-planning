@@ -66,7 +66,7 @@
 <img src='./src/assets/images/landing-hifi.png'>
 
 #### Results Page
-<img src='./src/assets/images/results-hifi.png'>
+<img src='./src/assets/images/results-hifi-v2.png'>
 
 #### Results Detail Page
 <img src='./src/assets/images/detail-hifi.png'>
