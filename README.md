@@ -77,6 +77,10 @@
 #### Results Detail Page
 <img src='./src/assets/images/detail-hifi.png'>
 
+### Component Tree
+
+<img src='./src/assets/images/lingomd-components-01.jpg'>
+
 ## Setup on OSX
 
 * Clone this repository
