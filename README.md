@@ -79,7 +79,7 @@
 
 ### Component Tree
 
-<img src='./src/assets/images/lingomd-components-01.jpg'>
+<img src='./src/assets/images/lingomd-componentsv2-01.jpg'>
 
 ## Setup on OSX
 
