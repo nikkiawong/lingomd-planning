@@ -1,6 +1,6 @@
 <img src='./src/assets/images/lingomd-horiz-colorlogo-06.png'>
 
-# LingoMD (Native Language Doctor)
+# LingoMD
 
 #### Independent capstone project for Epicodus, 11.30.18
 
@@ -10,7 +10,7 @@
 
 <strong>Name of Student:</strong> Nikki Wong
 
-<strong>Name of Project:</strong> Native Language Doctor
+<strong>Name of Project:</strong> LingoMD
 
 <strong>Project's Purpose or Goal:</strong> This application is intended to help immigrants and other individuals whose first language is not English to find physicians and other healthcare providers who speak their native language in their area.
 
